@@ -1,0 +1,12 @@
+C:\Users\hasbi\Desktop\bitirme\tcp\Test App\bin\Debug\tcpServerTester.exe
+C:\Users\hasbi\Desktop\bitirme\tcp\Test App\bin\Debug\tcpServerTester.pdb
+C:\Users\hasbi\Desktop\bitirme\tcp\Test App\bin\Debug\tcpServer.dll
+C:\Users\hasbi\Desktop\bitirme\tcp\Test App\bin\Debug\tcpServer.pdb
+C:\Users\hasbi\Desktop\bitirme\tcp\Test App\obj\x86\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\hasbi\Desktop\bitirme\tcp\Test App\obj\x86\Debug\testerApp.frmMain.resources
+C:\Users\hasbi\Desktop\bitirme\tcp\Test App\obj\x86\Debug\testApp.Properties.Resources.resources
+C:\Users\hasbi\Desktop\bitirme\tcp\Test App\obj\x86\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\hasbi\Desktop\bitirme\tcp\Test App\obj\x86\Debug\tcpServerTester.exe
+C:\Users\hasbi\Desktop\bitirme\tcp\Test App\obj\x86\Debug\tcpServerTester.pdb
+C:\Users\hasbi\Desktop\bitirme\TCP_Server\Test App\obj\x86\Debug\tcpServerTester.exe
+C:\Users\hasbi\Desktop\bitirme\TCP_Server\Test App\obj\x86\Debug\tcpServerTester.pdb
