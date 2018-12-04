@@ -12,7 +12,7 @@ boolean DigitOn = LOW;
 boolean DigitOff = HIGH;
 boolean SegOn=HIGH;
 boolean SegOff=LOW;
-int DigitPins[] = {2, 3, 4, 5};
+int DigitPins[] = {A0, A1, A2, A3};//{2, 3, 4, 5};
 int SegmentPins[] = {6, 7, 8, 9, 10, 11, 12, 13};
  
 //looks terrible, but I didn't find a way to copy Arrays or merge them from parts
